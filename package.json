@@ -1,0 +1,10 @@
+{
+  "name": "ragemp-gamemode",
+  "version": "1.0.0",
+  "description": "RAGE:MP Gamemode - Empty Base",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
